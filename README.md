@@ -1,4 +1,4 @@
-📊 Project Summary: Stock Market Analysis (AAPL)
+# 📊 Project Summary: Stock Market Analysis (AAPL)
 
 This project analyzes Apple Inc.(AAPL) stock performance using historical daily data pulled directly from Yahoo Finance with Python’s yfinance library. The analysis focuses on identifying short- and medium-term price trends through 20-day and 50-day Simple Moving Averages (SMA). By plotting closing prices alongside these indicators, it becomes easier to visualize periods of momentum and potential reversals.
 
